@@ -1,0 +1,8 @@
+streamlit>=1.31
+pybaseball>=2.2.7
+pandas>=2.0
+numpy>=1.24
+altair>=5.0
+pyarrow>=14.0
+pytest>=8.0
+boto3>=1.34
